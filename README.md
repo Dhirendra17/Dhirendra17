@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhirendra17" alt="dhirendra17" /></a> </p>
 
-<img align="right" height="300" width="400" alt="GIF" src="github profile.gif">
+<img align="right" height="300" width="400" alt="GIF" src="git profile.gif">
 
 - 🔭 I’m currently working with [Centre for Computational Technologies Pvt. Ltd](https://www.cctech.co.in/)
 
